@@ -13,5 +13,10 @@ namespace MCA214
         {
 
         }
+
+        protected void fname_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
